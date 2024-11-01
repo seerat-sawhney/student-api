@@ -70,3 +70,9 @@ json
 }
 PUT /students/{id}: Update an existing student by ID.
 DELETE /students/{id}: Delete a student by ID.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+You can copy this content and save it as `README.md` in your project folder. Let me know if you need any more help!
